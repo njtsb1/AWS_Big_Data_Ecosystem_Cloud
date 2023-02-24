@@ -4,7 +4,6 @@ Daily Learning
 
 Project developed at Bootcamp Cognizant Cloud Data Engineer whit guidance from expert [Cassiano Peres](https://github.com/cassianobrexbit/ "Cassiano Peres").</br>
 Learning to Work with the word counter algorithm. Ordering the words by occurrence and not by alphabetical order (presenting the most cited in the text with priority), for example.
-(Aprendendo a trabalhar com  algoritmo contador de palavras. Ordenando as palavras por ocorrência e não por ordem alfabética (apresentando as mais citadas no texto com prioridade), por exemplo.)
 
 [LICENSE](/LICENSE)
 
